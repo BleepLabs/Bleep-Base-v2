@@ -11,5 +11,5 @@ MIDI i/o connected to pins 0 and 1, Serial 1.
 8x Tactile buttons connected to pins 30-37    
 Photocell on A8   
   
-More info will be posted on the April '21 course page   
+More info will be posted on the April '21 [course page](https://github.com/BleepLabs/dadageek-April-21/wiki)   
    
