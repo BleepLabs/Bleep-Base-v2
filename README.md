@@ -1,6 +1,8 @@
 # Bleep-Base-v2  
 Hardware platform for April '21 [dadageek course](https://dadageek.com/courses/making-synths-with-arduino)  
    
+![](https://github.com/BleepLabs/Bleep-Base-v2/blob/main/bb-v2.jpg)      
+    
 Basic info:  
 Based on the Teensy 4.1  
 SGTL5000 audio i/o for easy compatibility with [Teensy audio library](https://www.pjrc.com/teensy/td_libs_Audio.html).   
